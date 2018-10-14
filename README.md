@@ -12,7 +12,7 @@ character array instead of making a "new" string. I figured Golang would be some
 
 ## Requirements
 - Go
-- C (with clang / llvm)
+- clang / llvm
 - Java
 - Python
 
