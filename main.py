@@ -2,8 +2,10 @@
 
 buf = ""
 
-for i in range(0, 100000000):
+i = 0
+while (i < 100000000):
     buf = str(i)
+    i = i + 1
     # pass
 
 print buf
